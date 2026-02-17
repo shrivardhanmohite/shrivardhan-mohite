@@ -2,15 +2,19 @@
 <h3 align="center">AI Systems Engineer • Full Stack Developer • LLM Builder</h3>
 
 <p align="center">
-Building intelligent systems powered by LLMs and scalable backend architecture.
+Building intelligent full-stack systems powered by LLMs and scalable backend architecture.
 </p>
 
 ---
 
 <p align="center">
+<<<<<<< HEAD
 <img src="shrivardhan-mohite/assest
 /pixel-coding-banner.gif
  width="100%" />
+=======
+  <img src="assets/pixel-coding-banner.gif" width="100%">
+>>>>>>> 5f45de8 (update 2)
 </p>
 
 ---
@@ -23,7 +27,7 @@ Building intelligent systems powered by LLMs and scalable backend architecture.
 - 🧠 Designing production-ready **RAG systems**
 - 🏗️ Architecting **Node.js + MongoDB + Python ML microservices**
 - 🌱 Exploring scalable backend & AI integrations
-- 💬 Ask me about **AI integration, Full Stack, DSA, System Design**
+- 💬 Ask me about **AI Integration, Full Stack, DSA, System Design**
 - 📫 How to reach me: **your_email_here**
 - ⚡ Fun fact: I optimize systems before I sleep 😄
 
@@ -32,31 +36,37 @@ Building intelligent systems powered by LLMs and scalable backend architecture.
 ## 🚀 Flagship Projects
 
 ### ⭐ Revizo  
-AI-powered study management system with ML-based importance tagging, summarization & study planning.
-
-### 🌾 FarmConnect  
-AI-driven digital marketplace connecting farmers directly with buyers.
-
-### 🗺 MapMyCampus  
-Smart campus navigation system for efficient location discovery.
+AI-powered study management platform with ML-based importance tagging, summarization, and smart study planning.  
+**Tech:** Node.js, Express, MongoDB Atlas, Python ML Service
 
 ---
 
-## 🧬 Core Engineering Areas
+### 🌾 FarmConnect  
+AI-driven digital marketplace connecting farmers directly with buyers, eliminating middlemen.  
+Includes government scheme notifications and AI suggestions.
 
-- LLM Systems & AI Integration
-- Retrieval-Augmented Generation (RAG)
-- Backend Architecture
-- REST APIs & Authentication
-- Full Stack Systems
-- Data Structures & Algorithms
+---
+
+### 🗺 MapMyCampus  
+Smart campus navigation system designed for efficient location discovery.
+
+---
+
+## 🧬 Core Engineering Domains
+
+- LLM Systems & AI Integration  
+- Retrieval-Augmented Generation (RAG)  
+- Backend Architecture  
+- REST APIs & Authentication  
+- Full Stack Systems  
+- Data Structures & Algorithms  
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,nodejs,react,mongodb,express,git,docker,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,nodejs,react,mongodb,express,git,docker,firebase,linux" />
 </p>
 
 ---
@@ -64,18 +74,34 @@ Smart campus navigation system for efficient location discovery.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrivardhan-mohite&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivardhan-mohite&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://shrivardhanmohite.github.io/shrivardhan-portfolio/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/shrivardhan-mohite-b67958289/">LinkedIn</a> •
-<a href="shrivardhan18188@gmail.com">Email</a>
+  <a href="https://shrivardhanmohite.github.io/shrivardhan-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/shrivardhan-mohite-b67958289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/shrivardhan-mohite">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:shrivardhan18188@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/shrivardhanmohite/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
