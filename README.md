@@ -8,13 +8,9 @@ Building intelligent full-stack systems powered by LLMs and scalable backend arc
 ---
 
 <p align="center">
-<<<<<<< HEAD
-<img src="shrivardhan-mohite/assest
-/pixel-coding-banner.gif
+<img src="/workspaces/shrivardhan-mohite/assest/pixel-coding-banner.gif"
  width="100%" />
-=======
-  <img src="assets/pixel-coding-banner.gif" width="100%">
->>>>>>> 5f45de8 (update 2)
+
 </p>
 
 ---
@@ -74,9 +70,10 @@ Smart campus navigation system designed for efficient location discovery.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrivardhan-mohite&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivardhan-mohite&theme=tokyonight" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shrivardhanmohite&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
+  <img src="https://streak-stats.demolab.com?user=shrivardhanmohite&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
