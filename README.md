@@ -8,7 +8,7 @@ Building intelligent systems powered by LLMs and scalable backend architecture.
 ---
 
 <p align="center">
-<img src="./assets/pixel-coding-banner.gif" width="100%" />
+<img src="/assest/pixel-coding-banner.gif width="100%" />
 </p>
 
 ---
