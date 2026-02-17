@@ -8,7 +8,7 @@ Building intelligent full-stack systems powered by LLMs and scalable backend arc
 ---
 
 <p align="center">
-<img src="/workspaces/shrivardhan-mohite/assest/pixel-coding-banner.gif"
+<img src="/shrivardhan-mohite/assest/pixel-coding-banner.gif"
  width="100%" />
 
 </p>
